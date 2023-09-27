@@ -13,7 +13,7 @@ Users can set the reminder. If the settlement exceeds the budget, remind the use
 
 Graph analysis
 We use the data to perform graph analysis by JFreeChart. This will make the overall cost look more visual. 
-<img width="363" alt="image" src="https://github.com/shellychen1221/Java-Accounting-program/assets/80396999/3c574e17-3ab3-4aeb-b191-69bfaaa5d03b"><br/>
+<img width="363" alt="image" src="https://github.com/shellychen1221/Java-Accounting-program/assets/80396999/3c574e17-3ab3-4aeb-b191-69bfaaa5d03b">
 
 
 
