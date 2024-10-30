@@ -1,4 +1,5 @@
 # Java-Accounting-program
+Group Members: Hsin Yu Chen, Chih Lin Chien
 This accounting program is divided into three parts, list, reminder, and graph analysis.
 The first part:
 List
@@ -12,14 +13,14 @@ Users can set the reminder. If the settlement exceeds the budget, remind the use
 
 
 Graph analysis
-We use the data to perform graph analysis by JFreeChart. This will make the overall cost look more visual. 
+We use the data to perform graph analysis by JFreeChart. This will make the overall cost look more visual. <br>
 <img width="363" alt="image" src="https://github.com/shellychen1221/Java-Accounting-program/assets/80396999/3c574e17-3ab3-4aeb-b191-69bfaaa5d03b">
 
 
 
 
 
-This is my Flowchart of this program </br>
+This is the Flowchart of this program </br>
 <img width="402" alt="image" src="https://github.com/shellychen1221/Java-Accounting-program/assets/80396999/65adfb8d-8f99-4df3-935f-de6e096b343d">
 
 
