@@ -1,18 +1,17 @@
 # Java-Accounting-program
-Group Members: Hsin Yu Chen, Chih Lin Chien
-This accounting program is divided into three parts, list, reminder, and graph analysis.
-The first part:
-List
+Group Members: Hsin Yu Chen, Chih Lin Chien<br>
+This accounting program is divided into three parts, list, reminder, and graph analysis.<br>
+The first part is List:<br>
 This is used to store data. Users can add the details about items they expend and choose the classification. All will be present in the detailed list. <br>
 ![bandicam 2021-06-06 15-08-20-631](https://github.com/shellychen1221/Java-Accounting-program/assets/80396999/67310254-ebb5-4e3c-ae2c-2390cdcdeb64)
 
-The second part is Reminder:
+The second part is Reminder:<br>
 Users can set the reminder. If the settlement exceeds the budget, remind the user that spending too much. <br>
 ![1](https://github.com/shellychen1221/Java-Accounting-program/assets/80396999/81103cb3-1697-49c4-944a-1fd883be2af8)
 
 
 
-Graph analysis
+Graph analysis<br>
 We use the data to perform graph analysis by JFreeChart. This will make the overall cost look more visual. <br>
 <img width="363" alt="image" src="https://github.com/shellychen1221/Java-Accounting-program/assets/80396999/3c574e17-3ab3-4aeb-b191-69bfaaa5d03b">
 
